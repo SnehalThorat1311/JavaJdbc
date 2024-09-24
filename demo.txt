@@ -1,1 +1,10 @@
 This is demo code for JDBC
+
+
+we are working on git functionality
+
+Topic covered
+oops
+collection
+DB
+need to update code
